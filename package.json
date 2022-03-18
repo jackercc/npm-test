@@ -1,0 +1,15 @@
+{
+  "name": "lbb-test",
+  "version": "1.0.0",
+  "description": "first npm test",
+  "main": "index.js",
+  "scripts": {
+    "release": "standard-version",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liubeibei420",
+  "license": "ISC",
+  "devDependencies": {
+    "standard-version": "^9.3.2"
+  }
+}
